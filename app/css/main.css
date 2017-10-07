@@ -21,6 +21,7 @@
 body {
   padding: 0;
   margin: auto;
+  background-image: radial-gradient(ellipse farthest-corner at center top, #fdfdfd 50%, #535b5e 214%);
 }
 .container {
   padding: 0;
